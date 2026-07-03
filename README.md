@@ -15,6 +15,7 @@
   <a href="https://x.com/praveenmacha777"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://www.rollno31.com/"><img src="https://img.shields.io/badge/ROLLNO31-Founder-A855F7?style=for-the-badge&logo=rocket&logoColor=white" alt="ROLLNO31" /></a>
   <a href="mailto:praveenmacha777@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/machapraveen/machapraveen/raw/main/resume.pdf"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-Download_PDF-6EE7F9?style=for-the-badge&logo=readdotcv&logoColor=black" alt="Resume" /></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=machapraveen&label=Profile%20views&color=6EE7F9&style=flat" alt="profile views" />
@@ -110,6 +111,25 @@ The venture I founded — **open-source-first systems &amp; developer tools**. W
 </table>
 
 </div>
+
+<!-- ==================== PROMPT ENGINEERING & AI TOOLING ==================== -->
+## &nbsp;&#129504; prompt engineering &amp; AI-assisted development
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="Copilot" />
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+<img src="https://img.shields.io/badge/Model_Context_Protocol-A855F7?style=for-the-badge&logoColor=white" alt="MCP" />
+
+</div>
+
+- &#128204; I treat **prompting as engineering** &mdash; structured system prompts, tool/function schemas, and evals &mdash; not guesswork.
+- &#129302; I build **agentic + MCP tooling** so LLMs can safely drive real systems (see `lanforge-mcp`: 6 tools, mock mode, 88% coverage).
+- &#9889; I ship faster with **AI-assisted development** across Claude, Cursor, and Copilot &mdash; from spec &rarr; code &rarr; tests &rarr; deploy.
+- &#127919; Comfortable designing **RAG pipelines, prompt chains, and structured-output** workflows that stay reliable in production.
 
 <!-- ===================== GITHUB STATS ===================== -->
 ## 📊 &nbsp;the numbers
