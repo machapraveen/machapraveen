@@ -86,7 +86,7 @@ Full-stack deep-learning pipeline for **glaucoma screening** from fundus images 
 </td>
 <td width="50%" valign="top">
 
-### 🛰️ [lanforge-mcp](https://github.com/machapraveen)
+### 🛰️ [lanforge-mcp]([https://github.com/machapraveen](https://github.com/machapraveen/lanforge-mcp))
 An **MCP server** letting Claude (or any MCP client) drive Candela's LANforge Wi-Fi test platform over JSON-over-HTTP. 6 tools, safe dry-run defaults, mock mode, 88% coverage.
 `Python` `MCP SDK` `httpx` `FastMCP`
 
@@ -95,7 +95,7 @@ An **MCP server** letting Claude (or any MCP client) drive Candela's LANforge Wi
 <tr>
 <td width="50%" valign="top">
 
-### 🏗️ [AI-Powered-Rebar-Detection](https://github.com/machapraveen)
+### 🏗️ [AI-Powered-Rebar-Detection]([https://github.com/machapraveen](https://github.com/machapraveen/AI-Powered-Rebar-Detection))
 Computer-vision pipeline that **detects and counts rebar** from construction imagery — selection, results overlay, and reporting.
 `Python` `OpenCV` `Deep Learning`
 
