@@ -136,8 +136,8 @@ The venture I founded — **open-source-first systems &amp; developer tools**. W
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=machapraveen&show_icons=true&count_private=true&hide_border=true&title_color=6EE7F9&icon_color=A855F7&text_color=C9D1D9&bg_color=0D1117" alt="stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=machapraveen&layout=compact&hide_border=true&title_color=6EE7F9&text_color=C9D1D9&bg_color=0D1117&langs_count=8" alt="top langs" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=machapraveen&show_icons=true&count_private=true&hide_border=true&title_color=6EE7F9&icon_color=A855F7&text_color=C9D1D9&bg_color=0D1117" alt="stats" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=machapraveen&layout=compact&hide_border=true&title_color=6EE7F9&text_color=C9D1D9&bg_color=0D1117&langs_count=8" alt="top langs" />
 
 <br/>
 
@@ -150,7 +150,7 @@ The venture I founded — **open-source-first systems &amp; developer tools**. W
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=machapraveen&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
+<img src="https://github-profile-trophy-eight.vercel.app/?username=machapraveen&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
 
 </div>
 
