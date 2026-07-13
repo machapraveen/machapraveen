@@ -117,15 +117,19 @@ One-click highlight marking for long-form live streamers — Chrome extension + 
 
 </td>
 <td width="50%" valign="top">
-</td>td
+
+</td>
+</tr>
+</table>
+
 </div>
 
 <!-- ==================== PROMPT ENGINEERING & AI TOOLING ==================== -->
-## &nbsp;&#129504; prompt engineering &amp; AI-assisted development
+## 🧠 prompt engineering & AI-assisted development
 
-</td>
-</td>tr>
-</td>table><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+<div align="center">
+
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
 <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
 <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="Copilot" />
 <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
