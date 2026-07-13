@@ -108,16 +108,24 @@ The venture I founded — **open-source-first systems &amp; developer tools**. W
 
 </td>
 </tr>
-</table>
+<tr>
+<td width="50%" valign="top">
 
+### 🎮 [StreamMark](https://streammark.app)
+One-click highlight marking for long-form live streamers — Chrome extension + web app, Squad Sync multi-POV (every teammate's angle of the same second), editor handoff with Premiere / Resolve / Final Cut exports. My first product built for non-engineers + monetization.
+`TypeScript` `Next.js` `Chrome MV3` `SQLite`
+
+</td>
+<td width="50%" valign="top">
+</td>td
 </div>
 
 <!-- ==================== PROMPT ENGINEERING & AI TOOLING ==================== -->
 ## &nbsp;&#129504; prompt engineering &amp; AI-assisted development
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+</td>
+</td>tr>
+</td>table><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
 <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
 <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="Copilot" />
 <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
